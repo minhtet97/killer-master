@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\user\Suzuki\Script\Life.cs" />
+    <Compile Include="Assets\user\Kinosita\EnemyManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
